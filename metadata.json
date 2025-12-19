@@ -1,0 +1,9 @@
+{
+  "name": "Copy of AgroSmart India",
+  "description": "A professional AI-powered agricultural advisor providing crop recommendations, real-time market prices, and weather-based guidance for Indian farmers.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
